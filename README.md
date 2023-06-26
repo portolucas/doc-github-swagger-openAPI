@@ -1,6 +1,6 @@
 # API de Usuários para os alunos da PUC Minas
 
-Olá! Meu nome é Lucas, sou professor da pós-graduação da PUC Minas. Este é um projeto para os alunos da pós-graduação.
+Olá! Meu nome é Lucas, sou professor da pós-graduação da **PUC Minas**. Este é um projeto para os alunos da pós-graduação.
 
 Uma API simples para gerenciar usuários.
 
